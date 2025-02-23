@@ -1,5 +1,5 @@
  
-# MAA_Upgrader
+# MAAUpgrader
 
 ## 简介
 本项目是一个旨在提供MAA下载与安装功能的Python程序。
